@@ -15,3 +15,9 @@ inches_in_mile = 63360
 feet_in_meter = 3.281
 feet_in_kilometer = 3280.84
 centimeters_in_inch = 2.54
+
+#booleans
+
+likes_snacks = true
+has_a_cat = true
+has_a_dog = false
